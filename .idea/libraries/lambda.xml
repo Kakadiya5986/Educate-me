@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lambda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-save-profile-img.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-updateRequest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-save-availability.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-savebookingdetails.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-cronjob.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-getslotdetails.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-save-user-details.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-subscribeForEmailNotification.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-get-tutor-bookings.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-getBookingSlotInPending.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-get-profile-img.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lambda/united-tutoring-get-user-details.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

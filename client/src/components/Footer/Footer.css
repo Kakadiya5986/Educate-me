@@ -1,0 +1,7 @@
+.footercss {
+    position: absolute;
+    transform: translate(0, 300%);
+    width: 100%;
+}
+
+

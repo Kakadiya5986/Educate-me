@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unitedtutoring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client/unitedtutoring.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
